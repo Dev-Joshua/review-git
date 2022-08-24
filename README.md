@@ -25,5 +25,8 @@ Introduction to web development with Java and Spring Boot, HTML, CSS3 & JS
 - git commit -m " "         (guardar cambios añadiendo un "comentario...")
 - git push origin main      (subir cambios al repositorio en github)
 
--git status                 (ver archivos sin guardar o fuera del stage area)
--git log                    (visualizar todos los commits)
+- git status                 (ver archivos sin guardar o fuera del stage area)
+- git log                    (visualizar todos los commits)
+- git log --oneline          (ver ramas del proyecto)
+- git branch <nombreRama>    (crear rama)
+- git checkout <nombreRama>  (cambiar de rama)
