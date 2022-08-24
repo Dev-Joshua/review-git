@@ -1,13 +1,13 @@
 # Review-Git-UTP
 
-# Descripcion
+## Descripcion
 Introduction to web development with Java and Spring Boot, HTML, CSS3 & JS
 
-# Topics
+## Topics
 - Introduction to Scrum
 - Introduction to git
 
-# create a new repository on the command line
+## create a new repository on the command line
   echo "# review-git" >> README.md
   git init
   git add README.md
@@ -16,7 +16,7 @@ Introduction to web development with Java and Spring Boot, HTML, CSS3 & JS
   git remote add origin git@github.com:Dev-Joshua/review-git.git
   git push -u origin main
 
-  # Basics Commands
+## Basics Commands
 - git config --global user.email "you@example.com"
 - git config --global user.name "Tu Nombre"
 
@@ -27,6 +27,7 @@ Introduction to web development with Java and Spring Boot, HTML, CSS3 & JS
 
 - git status                 (ver archivos sin guardar o fuera del stage area)
 - git log                    (visualizar todos los commits)
-- git log --oneline          (ver ramas del proyecto)
+- git log --oneline          (ver ramas del proyecto y commits del proyecto)
 - git branch <nombreRama>    (crear rama)
 - git checkout <nombreRama>  (cambiar de rama)
+- git branch                 (ver ramas del proyecto y visualizar donde esta ubicado)
