@@ -31,3 +31,9 @@ Introduction to web development with Java and Spring Boot, HTML, CSS3 & JS
 - git branch <nombreRama>    (crear rama)
 - git checkout <nombreRama>  (cambiar de rama)
 - git branch                 (ver ramas del proyecto y visualizar donde esta ubicado)
+
+
+## Extensions
+
+- Fig => autocomplete (mac or linux)
+- oh-my-zsh (mac or linux)
