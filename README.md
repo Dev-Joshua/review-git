@@ -8,13 +8,13 @@ Introduction to web development with Java and Spring Boot, HTML, CSS3 & JS
 - Introduction to git
 
 ## create a new repository on the command line
-  echo "# review-git" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin git@github.com:Dev-Joshua/review-git.git
-  git push -u origin main
+- echo "# review-git" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git branch -M main
+- git remote add origin git@github.com:Dev-Joshua/review-git.git
+- git push -u origin main
 
 ## Git Commands
 - git config --global user.email "you@example.com"
