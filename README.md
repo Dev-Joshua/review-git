@@ -16,7 +16,7 @@ Introduction to web development with Java and Spring Boot, HTML, CSS3 & JS
   git remote add origin git@github.com:Dev-Joshua/review-git.git
   git push -u origin main
 
-## Basics Commands
+## Git Commands
 - git config --global user.email "you@example.com"
 - git config --global user.name "Tu Nombre"
 
@@ -32,7 +32,11 @@ Introduction to web development with Java and Spring Boot, HTML, CSS3 & JS
 - git checkout <nombreRama>  (cambiar de rama)
 - git branch                 (ver ramas del proyecto y visualizar donde esta ubicado)
 
+- git clone url-repository   (clonar repositorio)
+- git merge <nombreRama>     (unir dos ramas)
 
+### Delete git
+- rm -rf .git
 ## Extensions
 
 - Fig => autocomplete (mac or linux)
